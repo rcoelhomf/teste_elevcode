@@ -1,6 +1,6 @@
 # teste_elevcode
 
-<p>Comandos para iniciar a API: 
-python -m venv venv
-source venv/Scripts/activate
-pip install -r requirements.txt</p>
+<p>Comandos para iniciar a API: </p>
+<p>python -m venv venv</p>
+<p>source venv/Scripts/activate</p>
+<p>pip install -r requirements.txt</p>
